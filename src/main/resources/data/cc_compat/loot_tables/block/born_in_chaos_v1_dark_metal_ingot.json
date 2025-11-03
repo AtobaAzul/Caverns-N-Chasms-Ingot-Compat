@@ -1,0 +1,110 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "born_in_chaos_v1"
+        }
+    ],
+    "type": "minecraft:block",
+    "pools": [
+        {
+            "bonus_rolls": 0.0,
+            "conditions": [
+                {
+                    "condition": "minecraft:inverted",
+                    "term": {
+                        "block": "cc_compat:born_in_chaos_v1_dark_metal_ingot",
+                        "condition": "minecraft:block_state_property",
+                        "properties": {
+                            "layers": "0"
+                        }
+                    }
+                }
+            ],
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "functions": [
+                        {
+                            "add": false,
+                            "conditions": [
+                                {
+                                    "block": "cc_compat:born_in_chaos_v1_dark_metal_ingot",
+                                    "condition": "minecraft:block_state_property",
+                                    "properties": {
+                                        "layers": "1"
+                                    }
+                                }
+                            ],
+                            "count": 2.0,
+                            "function": "minecraft:set_count"
+                        },
+                        {
+                            "add": false,
+                            "conditions": [
+                                {
+                                    "block": "cc_compat:born_in_chaos_v1_dark_metal_ingot",
+                                    "condition": "minecraft:block_state_property",
+                                    "properties": {
+                                        "layers": "2"
+                                    }
+                                }
+                            ],
+                            "count": 4.0,
+                            "function": "minecraft:set_count"
+                        },
+                        {
+                            "add": false,
+                            "conditions": [
+                                {
+                                    "block": "cc_compat:born_in_chaos_v1_dark_metal_ingot",
+                                    "condition": "minecraft:block_state_property",
+                                    "properties": {
+                                        "layers": "3"
+                                    }
+                                }
+                            ],
+                            "count": 6.0,
+                            "function": "minecraft:set_count"
+                        },
+                        {
+                            "function": "minecraft:explosion_decay"
+                        }
+                    ],
+                    "name": "born_in_chaos_v1:dark_metal_ingot"
+                }
+            ],
+            "rolls": 1.0
+        },
+        {
+            "bonus_rolls": 0.0,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "functions": [
+                        {
+                            "add": false,
+                            "conditions": [
+                                {
+                                    "block": "cc_compat:born_in_chaos_v1_dark_metal_ingot",
+                                    "condition": "minecraft:block_state_property",
+                                    "properties": {
+                                        "top_ingot": "both"
+                                    }
+                                }
+                            ],
+                            "count": 2.0,
+                            "function": "minecraft:set_count"
+                        },
+                        {
+                            "function": "minecraft:explosion_decay"
+                        }
+                    ],
+                    "name": "born_in_chaos_v1:dark_metal_ingot"
+                }
+            ],
+            "rolls": 1.0
+        }
+    ],
+    "random_sequence": "cc_compat:blocks/born_in_chaos_v1_dark_metal_ingot"
+}

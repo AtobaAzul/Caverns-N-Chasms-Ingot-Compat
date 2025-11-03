@@ -1,0 +1,268 @@
+{
+  "values": [
+    {
+      "id": "cc_compat:create_brass_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:create_zinc_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:galosphere_silver_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:irons_spellbooks_arcane_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tconstruct_cobalt_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tconstruct_steel_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tconstruct_slimesteel_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tconstruct_amethyst_bronze_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tconstruct_rose_gold_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tconstruct_pig_iron_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tconstruct_cinderslime_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tconstruct_queens_slime_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tconstruct_manyullyn_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tconstruct_hepatizon_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tconstruct_seared_brick",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tconstruct_scorched_brick",
+      "required": false
+    },
+    {
+      "id": "cc_compat:oreganized_lead_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:oreganized_silver_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:oreganized_electrum_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:createaddition_electrum_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:born_in_chaos_v1_dark_metal_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:samurai_dynasty_silver_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:samurai_dynasty_steel_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:samurai_dynasty_amethyst_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:samurai_dynasty_quartz_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:gobber2_gobber2_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:gobber2_gobber2_ingot_nether",
+      "required": false
+    },
+    {
+      "id": "cc_compat:gobber2_gobber2_ingot_end",
+      "required": false
+    },
+    {
+      "id": "cc_compat:malum_hallowed_gold_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:malum_soul_stained_steel_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:malum_malignant_pewter_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:immersiveengineering_ingot_hop_graphite",
+      "required": false
+    },
+    {
+      "id": "cc_compat:immersiveengineering_ingot_aluminum",
+      "required": false
+    },
+    {
+      "id": "cc_compat:immersiveengineering_ingot_lead",
+      "required": false
+    },
+    {
+      "id": "cc_compat:immersiveengineering_ingot_silver",
+      "required": false
+    },
+    {
+      "id": "cc_compat:immersiveengineering_ingot_nickel",
+      "required": false
+    },
+    {
+      "id": "cc_compat:immersiveengineering_ingot_uranium",
+      "required": false
+    },
+    {
+      "id": "cc_compat:immersiveengineering_ingot_constantan",
+      "required": false
+    },
+    {
+      "id": "cc_compat:immersiveengineering_ingot_electrum",
+      "required": false
+    },
+    {
+      "id": "cc_compat:immersiveengineering_ingot_steel",
+      "required": false
+    },
+    {
+      "id": "cc_compat:scguns_scorched_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:scguns_anthralite_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:scguns_treated_iron_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:scguns_treated_brass_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:scguns_diamond_steel_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:scguns_depleted_diamond_steel_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:sculkhorde_ferriscite",
+      "required": false
+    },
+    {
+      "id": "cc_compat:cataclysm_cursium_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:cataclysm_ignitium_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:cataclysm_black_steel_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:cataclysm_ancient_metal_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:cataclysm_witherite_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:thermal_tin_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:thermal_nickel_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:thermal_bronze_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:thermal_invar_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:thermal_silver_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:thermal_lead_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:thermal_constantan_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:thermal_lumium_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:thermal_electrum_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:thermal_enderium_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:thermal_signalum_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:metal_works_tin_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:metal_works_bronze_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:metal_works_rose_gold_ingot",
+      "required": false
+    }
+  ]
+}

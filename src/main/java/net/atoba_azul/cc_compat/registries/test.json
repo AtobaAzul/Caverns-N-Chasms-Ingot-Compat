@@ -1,0 +1,6 @@
+{
+  "parent": "caverns_and_chasms:block/silver_ingot_right_x_layer1",
+  "textures": {
+    "ingot": "cc_compat:block/create_brass_ingot"
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "values": [
+    {
+      "id": "create:brass_ingot",
+      "required": false
+    },
+    {
+      "id": "create:zinc_ingot",
+      "required": false
+    },
+    {
+      "id": "galosphere:silver_ingot",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:arcane_ingot",
+      "required": false
+    },
+    {
+      "id": "tconstruct:cobalt_ingot",
+      "required": false
+    },
+    {
+      "id": "tconstruct:steel_ingot",
+      "required": false
+    },
+    {
+      "id": "tconstruct:slimesteel_ingot",
+      "required": false
+    },
+    {
+      "id": "tconstruct:amethyst_bronze_ingot",
+      "required": false
+    },
+    {
+      "id": "tconstruct:rose_gold_ingot",
+      "required": false
+    },
+    {
+      "id": "tconstruct:pig_iron_ingot",
+      "required": false
+    },
+    {
+      "id": "tconstruct:cinderslime_ingot",
+      "required": false
+    },
+    {
+      "id": "tconstruct:queens_slime_ingot",
+      "required": false
+    },
+    {
+      "id": "tconstruct:manyullyn_ingot",
+      "required": false
+    },
+    {
+      "id": "tconstruct:hepatizon_ingot",
+      "required": false
+    },
+    {
+      "id": "tconstruct:seared_brick",
+      "required": false
+    },
+    {
+      "id": "tconstruct:scorched_brick",
+      "required": false
+    },
+    {
+      "id": "oreganized:lead_ingot",
+      "required": false
+    },
+    {
+      "id": "oreganized:silver_ingot",
+      "required": false
+    },
+    {
+      "id": "oreganized:electrum_ingot",
+      "required": false
+    },
+    {
+      "id": "createaddition:electrum_ingot",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:dark_metal_ingot",
+      "required": false
+    },
+    {
+      "id": "samurai_dynasty:silver_ingot",
+      "required": false
+    },
+    {
+      "id": "samurai_dynasty:steel_ingot",
+      "required": false
+    },
+    {
+      "id": "samurai_dynasty:amethyst_ingot",
+      "required": false
+    },
+    {
+      "id": "samurai_dynasty:quartz_ingot",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_ingot",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_ingot_nether",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_ingot_end",
+      "required": false
+    },
+    {
+      "id": "malum:hallowed_gold_ingot",
+      "required": false
+    },
+    {
+      "id": "malum:soul_stained_steel_ingot",
+      "required": false
+    },
+    {
+      "id": "malum:malignant_pewter_ingot",
+      "required": false
+    },
+    {
+      "id": "immersiveengineering:ingot_hop_graphite",
+      "required": false
+    },
+    {
+      "id": "immersiveengineering:ingot_aluminum",
+      "required": false
+    },
+    {
+      "id": "immersiveengineering:ingot_lead",
+      "required": false
+    },
+    {
+      "id": "immersiveengineering:ingot_silver",
+      "required": false
+    },
+    {
+      "id": "immersiveengineering:ingot_nickel",
+      "required": false
+    },
+    {
+      "id": "immersiveengineering:ingot_uranium",
+      "required": false
+    },
+    {
+      "id": "immersiveengineering:ingot_constantan",
+      "required": false
+    },
+    {
+      "id": "immersiveengineering:ingot_electrum",
+      "required": false
+    },
+    {
+      "id": "immersiveengineering:ingot_steel",
+      "required": false
+    },
+    {
+      "id": "scguns:scorched_ingot",
+      "required": false
+    },
+    {
+      "id": "scguns:anthralite_ingot",
+      "required": false
+    },
+    {
+      "id": "scguns:treated_iron_ingot",
+      "required": false
+    },
+    {
+      "id": "scguns:treated_brass_ingot",
+      "required": false
+    },
+    {
+      "id": "scguns:diamond_steel_ingot",
+      "required": false
+    },
+    {
+      "id": "scguns:depleted_diamond_steel_ingot",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:ferriscite",
+      "required": false
+    },
+    {
+      "id": "cataclysm:cursium_ingot",
+      "required": false
+    },
+    {
+      "id": "cataclysm:ignitium_ingot",
+      "required": false
+    },
+    {
+      "id": "cataclysm:black_steel_ingot",
+      "required": false
+    },
+    {
+      "id": "cataclysm:ancient_metal_ingot",
+      "required": false
+    },
+    {
+      "id": "cataclysm:witherite_ingot",
+      "required": false
+    },
+    {
+      "id": "thermal:tin_ingot",
+      "required": false
+    },
+    {
+      "id": "thermal:nickel_ingot",
+      "required": false
+    },
+    {
+      "id": "thermal:bronze_ingot",
+      "required": false
+    },
+    {
+      "id": "thermal:invar_ingot",
+      "required": false
+    },
+    {
+      "id": "thermal:silver_ingot",
+      "required": false
+    },
+    {
+      "id": "thermal:lead_ingot",
+      "required": false
+    },
+    {
+      "id": "thermal:constantan_ingot",
+      "required": false
+    },
+    {
+      "id": "thermal:lumium_ingot",
+      "required": false
+    },
+    {
+      "id": "thermal:electrum_ingot",
+      "required": false
+    },
+    {
+      "id": "thermal:enderium_ingot",
+      "required": false
+    },
+    {
+      "id": "thermal:signalum_ingot",
+      "required": false
+    },
+    {
+      "id": "metal_works:tin_ingot",
+      "required": false
+    },
+    {
+      "id": "metal_works:bronze_ingot",
+      "required": false
+    },
+    {
+      "id": "metal_works:rose_gold_ingot",
+      "required": false
+    }
+  ]
+}
