@@ -156,7 +156,7 @@ dependencies {
     minecraft "net.minecraftforge:forge:${minecraft_version}-${forge_version}"
 
     //moonlight
-    implementation fg.deobf("curse.maven:selene-499980:7119907")
+    implementation fg.deobf("curse.maven:selene-499980:7431825")
 
     //caverns n chasms
     implementation fg.deobf("curse.maven:blueprint-382216:6408581")
@@ -171,6 +171,8 @@ dependencies {
 
     //Supported mods:
 
+    //supplementaries
+    implementation fg.deobf("curse.maven:supplementaries-412082:7431873")
 
     //create
     implementation(fg.deobf("com.simibubi.create:create-${minecraft_version}:${create_version}:slim") { transitive = false })

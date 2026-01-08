@@ -16,6 +16,7 @@ tconstruct:manyullyn_ingot
 tconstruct:hepatizon_ingot
 tconstruct:seared_brick
 tconstruct:scorched_brick
+supplementaries:ash_brick
 oreganized:lead_ingot
 oreganized:silver_ingot
 oreganized:electrum_ingot

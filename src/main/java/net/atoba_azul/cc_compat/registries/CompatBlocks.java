@@ -59,6 +59,9 @@ public class CompatBlocks {
             ingotBlock("tconstruct:seared_brick", "tconstruct:seared_bricks"),
             ingotBlock("tconstruct:scorched_brick", "tconstruct:scorched_bricks"),
 
+            //Supplementaries
+            ingotBlock("supplementaries:ash_brick", "supplementaries:ash_bricks"),
+
             //oreganized
             ingotBlock("oreganized:lead_ingot"),
             ingotBlock("oreganized:silver_ingot", "oreganized:silver_block"),

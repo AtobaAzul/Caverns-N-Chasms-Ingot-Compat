@@ -73,6 +73,10 @@
       "required": false
     },
     {
+      "id": "cc_compat:supplementaries_ash_brick",
+      "required": false
+    },
+    {
       "id": "cc_compat:oreganized_lead_ingot",
       "required": false
     },

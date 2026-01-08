@@ -73,6 +73,10 @@
       "required": false
     },
     {
+      "id": "supplementaries:ash_brick",
+      "required": false
+    },
+    {
       "id": "oreganized:lead_ingot",
       "required": false
     },
