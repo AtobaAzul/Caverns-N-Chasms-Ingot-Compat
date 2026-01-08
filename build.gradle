@@ -232,6 +232,9 @@ dependencies {
     //metalworks
     implementation fg.deobf("curse.maven:voxel-core-1345607:7168200")
     implementation fg.deobf("curse.maven:metal-works-956564:7168242")
+
+    //oreganized
+    implementation fg.deobf("curse.maven:oreganized-769203:7182747")
 }
 
 // This block of code expands all declared replace properties in the specified resource targets.

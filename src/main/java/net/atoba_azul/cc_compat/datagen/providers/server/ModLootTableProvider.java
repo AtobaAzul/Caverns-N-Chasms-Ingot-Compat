@@ -24,6 +24,7 @@ import net.minecraft.world.level.storage.loot.LootTable;
 import net.minecraft.world.level.storage.loot.ValidationContext;
 import net.minecraft.world.level.storage.loot.entries.LootItem;
 import net.minecraft.world.level.storage.loot.functions.SetItemCountFunction;
+import net.minecraft.world.level.storage.loot.parameters.LootContextParamSet;
 import net.minecraft.world.level.storage.loot.parameters.LootContextParamSets;
 import net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition;
 import net.minecraft.world.level.storage.loot.predicates.LootItemCondition;
@@ -62,7 +63,6 @@ public class ModLootTableProvider extends LootTableProvider {
 
         @Override
         protected void generate() {
-
             ALL_INGOT_BLOCKS.forEach((ingot) -> this.add(ingot.get(), this::createIngotDrops));
         }
 

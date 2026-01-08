@@ -58,7 +58,9 @@ public class CompatBlocks {
             ingotBlock("tconstruct:scorched_brick", "tconstruct:scorched_bricks"),
 
             //oreganized
-            ingotBlock("oreganized:lead_ingot"), ingotBlock("oreganized:silver_ingot", "oreganized:silver_block"), ingotBlock("oreganized:electrum_ingot", "oreganized:electrum_block"),
+            ingotBlock("oreganized:lead_ingot"),
+            ingotBlock("oreganized:silver_ingot", "oreganized:silver_block"),
+            ingotBlock("oreganized:electrum_ingot", "oreganized:electrum_block"),
 
             //createaddition
             ingotBlock("createaddition:electrum_ingot"),

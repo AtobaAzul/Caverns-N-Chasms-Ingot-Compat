@@ -26,7 +26,6 @@ public class ModBlockTagProvider extends BlockTagsProvider {
 
 
         ALL_INGOT_BLOCKS.forEach((ingot) -> {
-
             mineable.addOptional(ingot.getId());
         });
     }

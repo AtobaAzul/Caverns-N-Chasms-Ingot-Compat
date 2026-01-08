@@ -24,3 +24,4 @@ run
 # Files from Forge MDK
 forge*changelog.txt
 /extra_libs
+/run-data

@@ -32,8 +32,5 @@ public class DataGenerators {
 
         ModBlockTagProvider blockTagProvider = generator.addProvider(event.includeServer(), new ModBlockTagProvider(packOutput, lookupProvider, existingFileHelper));
         generator.addProvider(server, new ModItemTagsProvider(packOutput, lookupProvider, blockTagProvider.contentsGetter(), existingFileHelper));
-        //This can't generate loot tables for items that aren't in the registry here in the dev env.
-        //however, it did get *most* of them. There's just a couple mods that don't work.
-        //generator.addProvider(server, new ModLootTableProvider(packOutput));
     }
 }
