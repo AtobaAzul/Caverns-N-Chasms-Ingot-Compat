@@ -17,6 +17,14 @@
       "required": false
     },
     {
+      "id": "cc_compat:irons_spellbooks_pyrium_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:irons_spellbooks_mithril_ingot",
+      "required": false
+    },
+    {
       "id": "cc_compat:tconstruct_cobalt_ingot",
       "required": false
     },

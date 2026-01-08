@@ -42,6 +42,8 @@ public class CompatBlocks {
 
             //irons
             ingotBlock("irons_spellbooks:arcane_ingot"),
+            ingotBlock("irons_spellbooks:pyrium_ingot"),
+            ingotBlock("irons_spellbooks:mithril_ingot"),
 
             //tconstruct
             ingotBlock("tconstruct:cobalt_ingot", "tconstruct:cobalt_block"),

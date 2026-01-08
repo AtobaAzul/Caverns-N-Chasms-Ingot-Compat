@@ -2,6 +2,8 @@ create:brass_ingot
 create:zinc_ingot
 galosphere:silver_ingot
 irons_spellbooks:arcane_ingot
+irons_spellbooks:pyrium_ingot
+irons_spellbooks:mithril_ingot
 tconstruct:cobalt_ingot
 tconstruct:steel_ingot
 tconstruct:slimesteel_ingot
