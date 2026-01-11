@@ -265,6 +265,14 @@
       "required": false
     },
     {
+      "id": "cc_compat:thermal_steel_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:thermal_rose_gold_ingot",
+      "required": false
+    },
+    {
       "id": "cc_compat:metal_works_tin_ingot",
       "required": false
     },

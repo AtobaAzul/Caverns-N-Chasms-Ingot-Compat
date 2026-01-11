@@ -4,7 +4,7 @@ with open("supported_ingots.txt", "r") as file:
         mod = line.split(":")[0] # e.g. immersiveengineering
         ingot = line.split(":")[1].strip() # e.g. ingot_electrum, zinc_ingot
 
-        new_file = open(mod + "_" + ingot + ".json", "w")
+        new_file = open("blocks/"+mod + "_" + ingot + ".json", "w")
 
 
         text = '''{{

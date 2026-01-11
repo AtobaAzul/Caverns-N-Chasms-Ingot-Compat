@@ -230,6 +230,7 @@ dependencies {
     implementation fg.deobf("curse.maven:cofh-core-69162:5374122")
     implementation fg.deobf("curse.maven:thermal-foundation-222880:5443583")
     implementation fg.deobf("curse.maven:thermal-expansion-69163:5372749")
+    implementation fg.deobf("curse.maven:thermal-integration-626708:5374210")
 
     //metalworks
     implementation fg.deobf("curse.maven:voxel-core-1345607:7168200")

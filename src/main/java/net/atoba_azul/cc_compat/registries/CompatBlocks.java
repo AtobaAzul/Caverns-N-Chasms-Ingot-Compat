@@ -131,6 +131,10 @@ public class CompatBlocks {
             ingotBlock("thermal:enderium_ingot", "thermal:enderium_block"),
             ingotBlock("thermal:signalum_ingot", "thermal:signalum_block"),
 
+            //thermal integration, technically a seperate mod
+            ingotBlock("thermal:steel_ingot", "thermal:steel_block"),
+            ingotBlock("thermal:rose_gold_ingot", "thermal:rose_gold_block"),
+
             //metal works
             ingotBlock("metal_works:tin_ingot", "thermal:tin_block"),
             ingotBlock("metal_works:bronze_ingot", "thermal:bronze_block"),
