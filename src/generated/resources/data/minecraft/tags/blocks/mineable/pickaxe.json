@@ -283,6 +283,26 @@
     {
       "id": "cc_compat:metal_works_rose_gold_ingot",
       "required": false
+    },
+    {
+      "id": "cc_compat:ad_astra_steel_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:ad_astra_etrium_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:ad_astra_desh_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:ad_astra_ostrum_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:ad_astra_calorite_ingot",
+      "required": false
     }
   ]
 }

@@ -69,3 +69,8 @@ thermal:rose_gold_ingot
 metal_works:tin_ingot
 metal_works:bronze_ingot
 metal_works:rose_gold_ingot
+ad_astra:steel_ingot
+ad_astra:etrium_ingot
+ad_astra:desh_ingot
+ad_astra:ostrum_ingot
+ad_astra:calorite_ingot

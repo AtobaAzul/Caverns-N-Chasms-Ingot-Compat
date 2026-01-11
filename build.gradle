@@ -238,6 +238,12 @@ dependencies {
 
     //oreganized
     implementation fg.deobf("curse.maven:oreganized-769203:7182747")
+
+    //ad astra
+    implementation fg.deobf("curse.maven:botarium-704113:5486070")
+    implementation fg.deobf("curse.maven:resourceful-lib-570073:5659871")
+    implementation fg.deobf("curse.maven:resourceful-config-714059:6231176")
+    implementation fg.deobf("curse.maven:ad-astra-635042:6262032")
 }
 
 // This block of code expands all declared replace properties in the specified resource targets.

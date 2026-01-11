@@ -138,8 +138,14 @@ public class CompatBlocks {
             //metal works
             ingotBlock("metal_works:tin_ingot", "thermal:tin_block"),
             ingotBlock("metal_works:bronze_ingot", "thermal:bronze_block"),
-            ingotBlock("metal_works:rose_gold_ingot", "thermal:rose_gold_block")
+            ingotBlock("metal_works:rose_gold_ingot", "thermal:rose_gold_block"),
 
+            //ad astra
+            ingotBlock("ad_astra:steel_ingot"),
+            ingotBlock("ad_astra:etrium_ingot"),
+            ingotBlock("ad_astra:desh_ingot"),
+            ingotBlock("ad_astra:ostrum_ingot"),
+            ingotBlock("ad_astra:calorite_ingot")
             );
 
 
