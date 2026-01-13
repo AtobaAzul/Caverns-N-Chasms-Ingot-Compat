@@ -244,6 +244,12 @@ dependencies {
     implementation fg.deobf("curse.maven:resourceful-lib-570073:5659871")
     implementation fg.deobf("curse.maven:resourceful-config-714059:6231176")
     implementation fg.deobf("curse.maven:ad-astra-635042:6262032")
+
+    //mekanism
+    implementation fg.deobf("curse.maven:mekanism-268560:6552911")
+
+    //extra shiny - except cursemaven is being annoying.
+    //implementation fg.deobf("curse.maven:extra-shiny-1403464:7326855")
 }
 
 // This block of code expands all declared replace properties in the specified resource targets.

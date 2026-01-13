@@ -17,11 +17,17 @@ import static net.atoba_azul.cc_compat.CCCompat.MOD_ID;
 public class ModTextureUtils {
     public static TextureImage generateIngotTextures(ResourceManager manager, RegistryObject<Block> item) throws IOException {
 
-        TextureImage ingotBase = TextureImage.open(manager, new ResourceLocation(MOD_ID, "block/template_ingot"));
+        TextureImage ingotBase = TextureImage.open(manager, new ResourceLocation("caverns_and_chasms", "block/gold_ingot"));
 
         if (item.get().asItem() != Items.AIR) {
+            System.out.println("HERE");
+            System.out.println(item.getId().getNamespace());
+            System.out.println(item.getId().getPath());
+
             if (item.getId().getPath().contains("brick")) {
                 ingotBase = TextureImage.open(manager, new ResourceLocation("caverns_and_chasms", "block/brick"));
+            } else if (item.getId().getPath().contains("mekanism")) { //mek's textures work better with this.
+                ingotBase = TextureImage.open(manager, new ResourceLocation("caverns_and_chasms", "block/copper_ingot"));
             }
 
             ResourceLocation ingotItemTextureLocation = RPUtils.findFirstItemTextureLocation(manager, item.get().asItem());

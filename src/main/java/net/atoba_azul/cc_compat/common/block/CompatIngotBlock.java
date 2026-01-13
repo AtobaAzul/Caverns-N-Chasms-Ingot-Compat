@@ -14,10 +14,6 @@ public class CompatIngotBlock extends IngotBlock {
         super(() -> ForgeRegistries.ITEMS.getValue(item) != null ? ForgeRegistries.ITEMS.getValue(item) : Items.BARRIER,
                 ForgeRegistries.BLOCKS.getValue(blockCopy) != null ? BlockBehaviour.Properties.copy(ForgeRegistries.BLOCKS.getValue(blockCopy)) : BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK));
         this.item_resource = item;
-
-        System.out.println("HERE! Initialized ingot for item: "+item.toString());
-        System.out.println(ForgeRegistries.ITEMS.getValue(item) != null ? ForgeRegistries.ITEMS.getValue(item) : Items.BARRIER);
-        System.out.println(ForgeRegistries.BLOCKS.getValue(blockCopy) != null ? BlockBehaviour.Properties.copy(ForgeRegistries.BLOCKS.getValue(blockCopy)) : BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK));
     }
 
     public CompatIngotBlock(ResourceLocation item) {

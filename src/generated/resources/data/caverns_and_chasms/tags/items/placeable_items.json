@@ -303,6 +303,42 @@
     {
       "id": "ad_astra:calorite_ingot",
       "required": false
+    },
+    {
+      "id": "mekanism:ingot_bronze",
+      "required": false
+    },
+    {
+      "id": "mekanism:ingot_refined_obsidian",
+      "required": false
+    },
+    {
+      "id": "mekanism:ingot_refined_glowstone",
+      "required": false
+    },
+    {
+      "id": "mekanism:ingot_steel",
+      "required": false
+    },
+    {
+      "id": "mekanism:ingot_osmium",
+      "required": false
+    },
+    {
+      "id": "mekanism:ingot_tin",
+      "required": false
+    },
+    {
+      "id": "mekanism:ingot_lead",
+      "required": false
+    },
+    {
+      "id": "mekanism:ingot_uranium",
+      "required": false
+    },
+    {
+      "id": "extrashiny:vanadium_ingot",
+      "required": false
     }
   ]
 }

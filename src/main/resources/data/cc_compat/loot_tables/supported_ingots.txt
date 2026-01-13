@@ -74,3 +74,12 @@ ad_astra:etrium_ingot
 ad_astra:desh_ingot
 ad_astra:ostrum_ingot
 ad_astra:calorite_ingot
+mekanism:ingot_bronze
+mekanism:ingot_refined_obsidian
+mekanism:ingot_refined_glowstone
+mekanism:ingot_steel
+mekanism:ingot_osmium
+mekanism:ingot_tin
+mekanism:ingot_lead
+mekanism:ingot_uranium
+extrashiny:vanadium_ingot

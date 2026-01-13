@@ -145,8 +145,21 @@ public class CompatBlocks {
             ingotBlock("ad_astra:etrium_ingot"),
             ingotBlock("ad_astra:desh_ingot"),
             ingotBlock("ad_astra:ostrum_ingot"),
-            ingotBlock("ad_astra:calorite_ingot")
-            );
+            ingotBlock("ad_astra:calorite_ingot"),
+
+            //mekanism
+            ingotBlock("mekanism:ingot_bronze", "mekanism:block_bronze"),
+            ingotBlock("mekanism:ingot_refined_obsidian", "mekanism:block_refined_obsidian"),
+            ingotBlock("mekanism:ingot_refined_glowstone", "mekanism:block_refined_glowstone"),
+            ingotBlock("mekanism:ingot_steel", "mekanism:block_steel"),
+            ingotBlock("mekanism:ingot_osmium", "mekanism:block_osmium"),
+            ingotBlock("mekanism:ingot_tin", "mekanism:block_tin"),
+            ingotBlock("mekanism:ingot_lead", "mekanism:block_lead"),
+            ingotBlock("mekanism:ingot_uranium", "mekanism:block_uranium"),
+
+            //extra shiny
+            ingotBlock("extrashiny:vanadium_ingot", "extrashiny:vanadium_block")
+    );
 
 
     static RegistryObject<Block> ingotBlock(String ingotItem, String ingotBlock) {
