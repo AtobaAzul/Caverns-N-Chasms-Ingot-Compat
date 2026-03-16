@@ -17,7 +17,7 @@
       ],
       "entries": [
         {
-          "type": "minecraft:item",
+          "type": "cc_compat:optional_item",
           "functions": [
             {
               "add": false,
@@ -74,7 +74,7 @@
       "bonus_rolls": 0.0,
       "entries": [
         {
-          "type": "minecraft:item",
+          "type": "cc_compat:optional_item",
           "functions": [
             {
               "add": false,

@@ -1,4 +1,3 @@
-
 with open("supported_ingots.txt", "r") as file:
     for line in file:
         mod = line.split(":")[0] # e.g. immersiveengineering
@@ -26,7 +25,7 @@ with open("supported_ingots.txt", "r") as file:
       ],
       "entries": [
         {{
-          "type": "minecraft:item",
+          "type": "cc_compat:optional_item",
           "functions": [
             {{
               "add": false,
@@ -83,7 +82,7 @@ with open("supported_ingots.txt", "r") as file:
       "bonus_rolls": 0.0,
       "entries": [
         {{
-          "type": "minecraft:item",
+          "type": "cc_compat:optional_item",
           "functions": [
             {{
               "add": false,
