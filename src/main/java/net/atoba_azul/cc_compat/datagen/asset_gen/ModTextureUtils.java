@@ -20,10 +20,6 @@ public class ModTextureUtils {
         TextureImage ingotBase = TextureImage.open(manager, new ResourceLocation("caverns_and_chasms", "block/gold_ingot"));
 
         if (item.get().asItem() != Items.AIR) {
-            System.out.println("HERE");
-            System.out.println(item.getId().getNamespace());
-            System.out.println(item.getId().getPath());
-
             if (item.getId().getPath().contains("brick")) {
                 ingotBase = TextureImage.open(manager, new ResourceLocation("caverns_and_chasms", "block/brick"));
             } else if (item.getId().getPath().contains("mekanism")) { //mek's textures work better with this.
