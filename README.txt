@@ -1,1 +1,1 @@
-While C&C's update isn't officially out, C&C Ingot Compat uses a compiled jar from Caverns and Chasms inside the `extra_libs` folder to properly work as a dependency. I will not teach how to clone and build your own jar here.
+Adds placeable ingot support for several mods.
