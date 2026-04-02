@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-**Put mod(s) name and link here**
+[<INSERT MOD NAME HERE>](<INSERT MOD LINK HERE>)
