@@ -83,3 +83,11 @@ mekanism:ingot_tin
 mekanism:ingot_lead
 mekanism:ingot_uranium
 extrashiny:vanadium_ingot
+alexscaves:scarlet_neodymium_ingot
+alexscaves:azure_neodymium_ingot
+deeperdarker:grime_brick
+alloyed:steel_ingot
+alloyed:bronze_ingot
+nourished_nether:necronium_ingot
+nourished_nether:red_nether_brick
+nourished_nether:warped_nether_brick
