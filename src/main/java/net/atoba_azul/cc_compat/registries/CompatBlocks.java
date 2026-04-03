@@ -163,6 +163,7 @@ public class CompatBlocks {
             //alex"s caves
             ingotBlock("alexscaves:scarlet_neodymium_ingot", "alexscaves:block_of_scarlet_neodymium"),
             ingotBlock("alexscaves:azure_neodymium_ingot", "alexscaves:block_of_azure_neodymium"),
+            ingotBlock("alexscaves:cinder_brick", "alexscaves:cinder_block"),
 
             //deeper and darker
             ingotBlock("deeperdarker:grime_brick", "deeperdarker:sculk_grime_bricks"),
@@ -175,6 +176,7 @@ public class CompatBlocks {
             ingotBlock("nourished_nether:necronium_ingot", "nourished_nether:necronium_block"),
             ingotBlock("nourished_nether:red_nether_brick", "minecraft:red_nether_bricks"),
             ingotBlock("nourished_nether:warped_nether_brick", "nourished_nether:warped_bricks"),
+            ingotBlock("nourished_nether:sludge_brick", "nourished_nether:sludge_bricks"),
 
             //twilight
             ingotBlock("twilightforest:ironwood_ingot", "twilightforest:ironwood_block"),
@@ -192,7 +194,70 @@ public class CompatBlocks {
             ingotBlock("terramity:reverium", "terramity:reverium_block"),
             ingotBlock("terramity:iridium", "terramity:iridium_block"),
             ingotBlock("terramity:void_alloy", "terramity:void_alloy_block"),
-            ingotBlock("terramity:profanum")
+            ingotBlock("terramity:profanum"),
+
+            //more critters
+            ingotBlock("more_critters:black_resin_brick", "more_critters:black_resin_bricks"),
+
+            //soulful nether
+            ingotBlock("soulfulnether:gloomy_amber_brick", "soulfulnether:gloomy_amber_bricks"),
+
+            //netherlurgy
+            ingotBlock("nethelurgy:tungsten_ingot", "nethelurgy:tungsten_block"),
+            ingotBlock("nethelurgy:red_nether_brick", "minecraft:red_nether_bricks"),
+
+            //vanilla backport
+            ingotBlock("minecraft:resin_brick", "minecraft:resin_bricks"),
+
+            //betterend
+            ingotBlock("betterend:aeternium_ingot", "betterend:aeternium_block"),
+            ingotBlock("betterend:thallasium_ingot", "betterend:thallasium_block"),
+            ingotBlock("betterend:terminite_ingot", "betterend:terminite_block"),
+
+            //betternether
+            ingotBlock("betternether:cincinnasite_ingot", "betternether:cincinnasite_forged"),
+
+            //endelurgy
+            ingotBlock("endelurgy:adamantite_ingot", "endelurgy:adamantite_block"),
+            ingotBlock("endelurgy:enderite_ingot", "endelurgy:enderite_block"),
+
+            //twigs
+            ingotBlock("twigs:silt_brick", "twigs:silt_bricks"),
+
+            //tfmg
+            ingotBlock("tfmg:steel_ingot", "tfmg:steel_block"),
+            ingotBlock("tfmg:cast_iron_ingot", "tfmg:cast_iron_block"),
+            ingotBlock("tfmg:aluminum_ingot", "tfmg:aluminum_block"),
+            ingotBlock("tfmg:lead_ingot", "tfmg:lead_block"),
+            ingotBlock("tfmg:nickel_ingot", "tfmg:nickel_block"),
+            ingotBlock("tfmg:constantan_ingot", "tfmg:constantan_block"),
+            ingotBlock("tfmg:lithium_ingot", "tfmg:lithium_block"),
+            ingotBlock("tfmg:silicon_ingot"),
+            ingotBlock("tfmg:magnetic_alloy_ingot"),
+            ingotBlock("tfmg:fireproof_brick", "tfmg:fireproof_bricks"),
+
+            //aquaculture
+            ingotBlock("aquaculture:neptunium_ingot", "aquaculture:neptunium_block"),
+
+            //undergarten
+            ingotBlock("undergarden:cloggrum_ingot", "undergarden:cloggrum_block"),
+            ingotBlock("undergarden:froststeel_ingot", "undergarden:froststeel_block"),
+            ingotBlock("undergarden:forgotten_ingot", "undergarden:forgotten_block"),
+
+            //dreams and desires
+            //it tags andesite alloy as a ingot so, uh, it also gets added ig.
+            ingotBlock("create_dd:mithril_ingot","create_dd:mithril_block"),
+            ingotBlock("create_dd:bronze_ingot", "create_dd:bronze_block"),
+            ingotBlock("create_dd:steel_ingot",  "create_dd:steel_block"),
+            ingotBlock("create_dd:tin_ingot","create_dd:tin_block"),
+            ingotBlock("create_dd:industrial_iron_ingot", "create_dd:industrial_iron_block"),
+            ingotBlock("create_dd:lapis_alloy", "create_dd:lapis_alloy_block"),
+            ingotBlock("create_dd:chromatic_compound", "create_dd:chromatic_block"),
+            ingotBlock("create_dd:shadow_steel", "create_dd:shadow_steel_block"),
+            ingotBlock("create_dd:refined_radiance", "create_dd:refined_radiance_block"),
+
+            //darker depths
+            ingotBlock("darkerdepths:forsaken_bronze_ingot", "darkerdepths:forsaken_bronze_block")
     );
 
 

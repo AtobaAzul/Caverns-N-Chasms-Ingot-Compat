@@ -290,6 +290,53 @@ dependencies {
     //terramity
     implementation fg.deobf("curse.maven:patchouli-306770:7731017")
     implementation fg.deobf("curse.maven:terramity-1084134:6054971")
+
+    //aquaculture
+    implementation fg.deobf("curse.maven:aquaculture-60028:7331172")
+
+    //TFMG
+    //create version conflict. We can still add support, however.
+    //implementation fg.deobf("curse.maven:create-industry-693815:7344584")
+
+    //darker depths
+    //implementation fg.deobf("curse.maven:darker-depths-460681:7716706")
+
+    //betternether
+    //their datagen events crash D:
+    //implementation fg.deobf("curse.maven:bclib-forge-1435106:7800921")
+    //implementation fg.deobf("curse.maven:wunderlib-forge-1435097:7486522")
+    //implementation fg.deobf("curse.maven:betternether-forge-1436171:7713601")
+
+    //betterend
+    //implementation fg.deobf("curse.maven:betterend-forge-1435127:7800936")
+
+    //curse maven is being a shithead?
+    //create dreams and desires
+    //implementation fg.deobf("curse.maven:create-dreams-desires-864781:5468371")
+
+    //netherlurgy
+    //implementation fg.deobf("curse.maven:nethelurgy-1285898:7794331")
+
+    //enderlurgy
+    //implementation fg.deobf("curse.maven:endelurgy-1262008:7681028")
+
+    //undergarden
+    implementation fg.deobf("curse.maven:the-undergarden-379849:5182632")
+
+    //twigs
+    implementation fg.deobf("curse.maven:twigs-496913:4998195")
+
+    //vanilla backport
+    //crash on dev env. :(
+    //implementation fg.deobf("curse.maven:platform-997634:7830508")
+    //implementation fg.deobf("curse.maven:vanillabackport-417430:7830642")
+
+    //more critters
+    implementation fg.deobf("curse.maven:more-critters-1322511:7589580")
+
+    //soulful nether
+    implementation fg.deobf("curse.maven:elysium-api-1158628:6589093")
+    implementation fg.deobf("curse.maven:soulful-nether-1146098:7858446")
 }
 
 // This block of code expands all declared replace properties in the specified resource targets.

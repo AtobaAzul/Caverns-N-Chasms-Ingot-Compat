@@ -349,6 +349,10 @@
       "required": false
     },
     {
+      "id": "alexscaves:cinder_brick",
+      "required": false
+    },
+    {
       "id": "deeperdarker:grime_brick",
       "required": false
     },
@@ -370,6 +374,10 @@
     },
     {
       "id": "nourished_nether:warped_nether_brick",
+      "required": false
+    },
+    {
+      "id": "nourished_nether:sludge_brick",
       "required": false
     },
     {
@@ -426,6 +434,150 @@
     },
     {
       "id": "terramity:profanum",
+      "required": false
+    },
+    {
+      "id": "more_critters:black_resin_brick",
+      "required": false
+    },
+    {
+      "id": "soulfulnether:gloomy_amber_brick",
+      "required": false
+    },
+    {
+      "id": "nethelurgy:tungsten_ingot",
+      "required": false
+    },
+    {
+      "id": "nethelurgy:red_nether_brick",
+      "required": false
+    },
+    {
+      "id": "minecraft:resin_brick",
+      "required": false
+    },
+    {
+      "id": "betterend:aeternium_ingot",
+      "required": false
+    },
+    {
+      "id": "betterend:thallasium_ingot",
+      "required": false
+    },
+    {
+      "id": "betterend:terminite_ingot",
+      "required": false
+    },
+    {
+      "id": "betternether:cincinnasite_ingot",
+      "required": false
+    },
+    {
+      "id": "endelurgy:adamantite_ingot",
+      "required": false
+    },
+    {
+      "id": "endelurgy:enderite_ingot",
+      "required": false
+    },
+    {
+      "id": "twigs:silt_brick",
+      "required": false
+    },
+    {
+      "id": "tfmg:steel_ingot",
+      "required": false
+    },
+    {
+      "id": "tfmg:cast_iron_ingot",
+      "required": false
+    },
+    {
+      "id": "tfmg:aluminum_ingot",
+      "required": false
+    },
+    {
+      "id": "tfmg:lead_ingot",
+      "required": false
+    },
+    {
+      "id": "tfmg:nickel_ingot",
+      "required": false
+    },
+    {
+      "id": "tfmg:constantan_ingot",
+      "required": false
+    },
+    {
+      "id": "tfmg:lithium_ingot",
+      "required": false
+    },
+    {
+      "id": "tfmg:silicon_ingot",
+      "required": false
+    },
+    {
+      "id": "tfmg:magnetic_alloy_ingot",
+      "required": false
+    },
+    {
+      "id": "tfmg:fireproof_brick",
+      "required": false
+    },
+    {
+      "id": "aquaculture:neptunium_ingot",
+      "required": false
+    },
+    {
+      "id": "undergarden:cloggrum_ingot",
+      "required": false
+    },
+    {
+      "id": "undergarden:froststeel_ingot",
+      "required": false
+    },
+    {
+      "id": "undergarden:forgotten_ingot",
+      "required": false
+    },
+    {
+      "id": "create_dd:mithril_ingot",
+      "required": false
+    },
+    {
+      "id": "create_dd:bronze_ingot",
+      "required": false
+    },
+    {
+      "id": "create_dd:steel_ingot",
+      "required": false
+    },
+    {
+      "id": "create_dd:tin_ingot",
+      "required": false
+    },
+    {
+      "id": "create_dd:industrial_iron_ingot",
+      "required": false
+    },
+    {
+      "id": "create_dd:lapis_alloy",
+      "required": false
+    },
+    {
+      "id": "create_dd:chromatic_compound",
+      "required": false
+    },
+    {
+      "id": "create_dd:shadow_steel",
+      "required": false
+    },
+    {
+      "id": "create_dd:refined_radiance",
+      "required": false
+    },
+    {
+      "id": "darkerdepths:forsaken_bronze_ingot",
       "required": false
     }
   ]

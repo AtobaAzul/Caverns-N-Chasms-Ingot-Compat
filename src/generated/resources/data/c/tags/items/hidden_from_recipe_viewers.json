@@ -349,6 +349,10 @@
       "required": false
     },
     {
+      "id": "cc_compat:alexscaves_cinder_brick_placed",
+      "required": false
+    },
+    {
       "id": "cc_compat:deeperdarker_grime_brick_placed",
       "required": false
     },
@@ -370,6 +374,10 @@
     },
     {
       "id": "cc_compat:nourished_nether_warped_nether_brick_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:nourished_nether_sludge_brick_placed",
       "required": false
     },
     {
@@ -426,6 +434,150 @@
     },
     {
       "id": "cc_compat:terramity_profanum_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:more_critters_black_resin_brick_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:soulfulnether_gloomy_amber_brick_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:nethelurgy_tungsten_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:nethelurgy_red_nether_brick_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:minecraft_resin_brick_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:betterend_aeternium_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:betterend_thallasium_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:betterend_terminite_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:betternether_cincinnasite_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:endelurgy_adamantite_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:endelurgy_enderite_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:twigs_silt_brick_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tfmg_steel_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tfmg_cast_iron_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tfmg_aluminum_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tfmg_lead_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tfmg_nickel_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tfmg_constantan_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tfmg_lithium_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tfmg_silicon_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tfmg_magnetic_alloy_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tfmg_fireproof_brick_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:aquaculture_neptunium_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:undergarden_cloggrum_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:undergarden_froststeel_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:undergarden_forgotten_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:create_dd_mithril_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:create_dd_bronze_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:create_dd_steel_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:create_dd_tin_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:create_dd_industrial_iron_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:create_dd_lapis_alloy_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:create_dd_chromatic_compound_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:create_dd_shadow_steel_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:create_dd_refined_radiance_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:darkerdepths_forsaken_bronze_ingot_placed",
       "required": false
     }
   ]
