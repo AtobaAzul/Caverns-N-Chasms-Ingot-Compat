@@ -371,6 +371,18 @@
     {
       "id": "nourished_nether:warped_nether_brick",
       "required": false
+    },
+    {
+      "id": "twilightforest:ironwood_ingot",
+      "required": false
+    },
+    {
+      "id": "twilightforest:knightmetal_ingot",
+      "required": false
+    },
+    {
+      "id": "twilightforest:fiery_ingot",
+      "required": false
     }
   ]
 }

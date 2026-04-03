@@ -91,3 +91,6 @@ alloyed:bronze_ingot
 nourished_nether:necronium_ingot
 nourished_nether:red_nether_brick
 nourished_nether:warped_nether_brick
+twilightforest:ironwood_ingot
+twilightforest:knightmetal_ingot
+twilightforest:fiery_ingot

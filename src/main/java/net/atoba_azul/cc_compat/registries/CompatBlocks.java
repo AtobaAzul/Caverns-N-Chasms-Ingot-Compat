@@ -174,8 +174,12 @@ public class CompatBlocks {
             //nourished nether aka netherific
             ingotBlock("nourished_nether:necronium_ingot", "nourished_nether:necronium_block"),
             ingotBlock("nourished_nether:red_nether_brick", "minecraft:red_nether_bricks"),
-            ingotBlock("nourished_nether:warped_nether_brick", "nourished_nether:warped_bricks")
+            ingotBlock("nourished_nether:warped_nether_brick", "nourished_nether:warped_bricks"),
 
+            //twilight
+            ingotBlock("twilightforest:ironwood_ingot", "twilightforest:ironwood_block"),
+            ingotBlock("twilightforest:knightmetal_ingot", "twilightforest:knightmetal_block"),
+            ingotBlock("twilightforest:fiery_ingot", "twilightforest:fiery_block")
     );
 
 

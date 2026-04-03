@@ -283,6 +283,9 @@ dependencies {
 
     //deeper darker
     implementation fg.deobf("curse.maven:deeperdarker-659011:5906086")
+
+    //twilight forest
+    implementation fg.deobf("curse.maven:the-twilight-forest-227639:5468648")
 }
 
 // This block of code expands all declared replace properties in the specified resource targets.
