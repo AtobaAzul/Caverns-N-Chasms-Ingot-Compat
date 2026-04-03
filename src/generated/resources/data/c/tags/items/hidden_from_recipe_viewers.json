@@ -1,0 +1,376 @@
+{
+  "values": [
+    {
+      "id": "cc_compat:create_brass_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:create_zinc_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:galosphere_silver_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:irons_spellbooks_arcane_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:irons_spellbooks_pyrium_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:irons_spellbooks_mithril_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tconstruct_cobalt_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tconstruct_steel_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tconstruct_slimesteel_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tconstruct_amethyst_bronze_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tconstruct_rose_gold_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tconstruct_pig_iron_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tconstruct_cinderslime_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tconstruct_queens_slime_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tconstruct_manyullyn_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tconstruct_hepatizon_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tconstruct_seared_brick_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tconstruct_scorched_brick_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:supplementaries_ash_brick_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:oreganized_lead_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:oreganized_silver_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:oreganized_electrum_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:createaddition_electrum_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:born_in_chaos_v1_dark_metal_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:samurai_dynasty_silver_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:samurai_dynasty_steel_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:samurai_dynasty_amethyst_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:samurai_dynasty_quartz_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:gobber2_gobber2_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:gobber2_gobber2_ingot_nether_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:gobber2_gobber2_ingot_end_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:malum_hallowed_gold_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:malum_soul_stained_steel_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:malum_malignant_pewter_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:immersiveengineering_ingot_hop_graphite_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:immersiveengineering_ingot_aluminum_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:immersiveengineering_ingot_lead_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:immersiveengineering_ingot_silver_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:immersiveengineering_ingot_nickel_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:immersiveengineering_ingot_uranium_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:immersiveengineering_ingot_constantan_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:immersiveengineering_ingot_electrum_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:immersiveengineering_ingot_steel_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:scguns_scorched_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:scguns_anthralite_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:scguns_treated_iron_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:scguns_treated_brass_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:scguns_diamond_steel_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:scguns_depleted_diamond_steel_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:sculkhorde_ferriscite_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:cataclysm_cursium_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:cataclysm_ignitium_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:cataclysm_black_steel_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:cataclysm_ancient_metal_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:cataclysm_witherite_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:thermal_tin_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:thermal_nickel_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:thermal_bronze_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:thermal_invar_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:thermal_silver_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:thermal_lead_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:thermal_constantan_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:thermal_lumium_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:thermal_electrum_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:thermal_enderium_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:thermal_signalum_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:thermal_steel_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:thermal_rose_gold_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:metal_works_tin_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:metal_works_bronze_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:metal_works_rose_gold_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:ad_astra_steel_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:ad_astra_etrium_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:ad_astra_desh_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:ad_astra_ostrum_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:ad_astra_calorite_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:mekanism_ingot_bronze_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:mekanism_ingot_refined_obsidian_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:mekanism_ingot_refined_glowstone_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:mekanism_ingot_steel_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:mekanism_ingot_osmium_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:mekanism_ingot_tin_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:mekanism_ingot_lead_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:mekanism_ingot_uranium_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:extrashiny_vanadium_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:alexscaves_scarlet_neodymium_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:alexscaves_azure_neodymium_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:deeperdarker_grime_brick_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:alloyed_steel_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:alloyed_bronze_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:nourished_nether_necronium_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:nourished_nether_red_nether_brick_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:nourished_nether_warped_nether_brick_placed",
+      "required": false
+    }
+  ]
+}

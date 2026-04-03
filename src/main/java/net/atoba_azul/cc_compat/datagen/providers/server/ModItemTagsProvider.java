@@ -1,6 +1,7 @@
 package net.atoba_azul.cc_compat.datagen.providers.server;
 
 
+import com.teamabnormals.blueprint.core.util.TagUtil;
 import com.teamabnormals.caverns_and_chasms.core.other.tags.CCItemTags;
 import net.atoba_azul.cc_compat.common.block.CompatIngotBlock;
 import net.minecraft.core.HolderLookup;
@@ -33,12 +34,14 @@ public class ModItemTagsProvider extends net.minecraft.data.tags.ItemTagsProvide
     @Override
     protected void addTags(HolderLookup.Provider provider) {
         IntrinsicTagAppender<Item> placeable = tag(CCItemTags.PLACEABLE_ITEMS);
+        IntrinsicTagAppender<Item> hidden = tag(TagUtil.itemTag("c", "hidden_from_recipe_viewers"));
 
         Collection<RegistryObject<Item>> items = REGISTRY_HELPER.getItemSubHelper().getDeferredRegister().getEntries();
         for (RegistryObject<Item> reg : items) {
             if (reg.get() instanceof BlockItem blockItem) {
                 CompatIngotBlock block = (CompatIngotBlock) blockItem.getBlock();
                 placeable.addOptional(block.getItemResourceLocation());
+                hidden.addOptional(reg.getId());
             }
         }
     }
