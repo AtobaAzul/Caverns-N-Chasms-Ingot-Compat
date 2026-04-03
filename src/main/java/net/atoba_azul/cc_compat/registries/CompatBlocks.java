@@ -65,7 +65,7 @@ public class CompatBlocks {
             //oreganized
             ingotBlock("oreganized:lead_ingot"),
             ingotBlock("oreganized:silver_ingot", "oreganized:silver_block"),
-            ingotBlock("oreganized:electrum_ingot", "oreganized:electrum_block"),
+            ingotBlock("oreganized:electrum_ingot"), //seemingly running into the same issue as lead :(
 
             //createaddition
             ingotBlock("createaddition:electrum_ingot"),
