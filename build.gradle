@@ -271,6 +271,18 @@ dependencies {
 
     //extra shiny - except cursemaven is being annoying.
     //implementation fg.deobf("curse.maven:extra-shiny-1403464:7326855")
+
+    // alexs caves
+    implementation fg.deobf("curse.maven:alexs-caves-924854:5848216")
+
+    //  netherific aka nourished nether
+    implementation fg.deobf("curse.maven:netherific-479296:4718299")
+
+    //alloyed
+    implementation fg.deobf("curse.maven:create-alloyed-564792:7602388")
+
+    //deeper darker
+    implementation fg.deobf("curse.maven:deeperdarker-659011:5906086")
 }
 
 // This block of code expands all declared replace properties in the specified resource targets.

@@ -158,7 +158,24 @@ public class CompatBlocks {
             ingotBlock("mekanism:ingot_uranium", "mekanism:block_uranium"),
 
             //extra shiny
-            ingotBlock("extrashiny:vanadium_ingot", "extrashiny:vanadium_block")
+            ingotBlock("extrashiny:vanadium_ingot", "extrashiny:vanadium_block"),
+
+            //alex"s caves
+            ingotBlock("alexscaves:scarlet_neodymium_ingot", "alexscaves:block_of_scarlet_neodymium"),
+            ingotBlock("alexscaves:azure_neodymium_ingot", "alexscaves:block_of_azure_neodymium"),
+
+            //deeper and darker
+            ingotBlock("deeperdarker:grime_brick", "deeperdarker:sculk_grime_bricks"),
+
+            //create alloyed
+            ingotBlock("alloyed:steel_ingot", "alloyed:steel_block"),
+            ingotBlock("alloyed:bronze_ingot", "alloyed:bronze_block"),
+
+            //nourished nether aka netherific
+            ingotBlock("nourished_nether:necronium_ingot", "nourished_nether:necronium_block"),
+            ingotBlock("nourished_nether:red_nether_brick", "minecraft:red_nether_bricks"),
+            ingotBlock("nourished_nether:warped_nether_brick", "nourished_nether:warped_bricks")
+
     );
 
 

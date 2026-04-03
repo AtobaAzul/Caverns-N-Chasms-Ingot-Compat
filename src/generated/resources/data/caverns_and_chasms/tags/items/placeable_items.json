@@ -339,6 +339,38 @@
     {
       "id": "extrashiny:vanadium_ingot",
       "required": false
+    },
+    {
+      "id": "alexscaves:scarlet_neodymium_ingot",
+      "required": false
+    },
+    {
+      "id": "alexscaves:azure_neodymium_ingot",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:grime_brick",
+      "required": false
+    },
+    {
+      "id": "alloyed:steel_ingot",
+      "required": false
+    },
+    {
+      "id": "alloyed:bronze_ingot",
+      "required": false
+    },
+    {
+      "id": "nourished_nether:necronium_ingot",
+      "required": false
+    },
+    {
+      "id": "nourished_nether:red_nether_brick",
+      "required": false
+    },
+    {
+      "id": "nourished_nether:warped_nether_brick",
+      "required": false
     }
   ]
 }

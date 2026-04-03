@@ -339,6 +339,38 @@
     {
       "id": "cc_compat:extrashiny_vanadium_ingot",
       "required": false
+    },
+    {
+      "id": "cc_compat:alexscaves_scarlet_neodymium_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:alexscaves_azure_neodymium_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:deeperdarker_grime_brick",
+      "required": false
+    },
+    {
+      "id": "cc_compat:alloyed_steel_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:alloyed_bronze_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:nourished_nether_necronium_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:nourished_nether_red_nether_brick",
+      "required": false
+    },
+    {
+      "id": "cc_compat:nourished_nether_warped_nether_brick",
+      "required": false
     }
   ]
 }
