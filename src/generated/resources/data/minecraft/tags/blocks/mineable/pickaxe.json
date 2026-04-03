@@ -383,6 +383,50 @@
     {
       "id": "cc_compat:twilightforest_fiery_ingot",
       "required": false
+    },
+    {
+      "id": "cc_compat:terramity_dimlite_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:terramity_conductite",
+      "required": false
+    },
+    {
+      "id": "cc_compat:terramity_hellspec_alloy",
+      "required": false
+    },
+    {
+      "id": "cc_compat:terramity_virentium_alloy_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:terramity_cosmilite_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:terramity_nyxium",
+      "required": false
+    },
+    {
+      "id": "cc_compat:terramity_exodium_superalloy",
+      "required": false
+    },
+    {
+      "id": "cc_compat:terramity_reverium",
+      "required": false
+    },
+    {
+      "id": "cc_compat:terramity_iridium",
+      "required": false
+    },
+    {
+      "id": "cc_compat:terramity_void_alloy",
+      "required": false
+    },
+    {
+      "id": "cc_compat:terramity_profanum",
+      "required": false
     }
   ]
 }

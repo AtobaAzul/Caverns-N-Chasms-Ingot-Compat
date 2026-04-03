@@ -383,6 +383,50 @@
     {
       "id": "twilightforest:fiery_ingot",
       "required": false
+    },
+    {
+      "id": "terramity:dimlite_ingot",
+      "required": false
+    },
+    {
+      "id": "terramity:conductite",
+      "required": false
+    },
+    {
+      "id": "terramity:hellspec_alloy",
+      "required": false
+    },
+    {
+      "id": "terramity:virentium_alloy_ingot",
+      "required": false
+    },
+    {
+      "id": "terramity:cosmilite_ingot",
+      "required": false
+    },
+    {
+      "id": "terramity:nyxium",
+      "required": false
+    },
+    {
+      "id": "terramity:exodium_superalloy",
+      "required": false
+    },
+    {
+      "id": "terramity:reverium",
+      "required": false
+    },
+    {
+      "id": "terramity:iridium",
+      "required": false
+    },
+    {
+      "id": "terramity:void_alloy",
+      "required": false
+    },
+    {
+      "id": "terramity:profanum",
+      "required": false
     }
   ]
 }

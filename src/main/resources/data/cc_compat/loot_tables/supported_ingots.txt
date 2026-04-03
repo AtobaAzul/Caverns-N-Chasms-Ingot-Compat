@@ -94,3 +94,14 @@ nourished_nether:warped_nether_brick
 twilightforest:ironwood_ingot
 twilightforest:knightmetal_ingot
 twilightforest:fiery_ingot
+terramity:dimlite_ingot
+terramity:conductite
+terramity:hellspec_alloy
+terramity:virentium_alloy_ingot
+terramity:cosmilite_ingot
+terramity:nyxium
+terramity:exodium_superalloy
+terramity:reverium
+terramity:iridium
+terramity:void_alloy
+terramity:profanum

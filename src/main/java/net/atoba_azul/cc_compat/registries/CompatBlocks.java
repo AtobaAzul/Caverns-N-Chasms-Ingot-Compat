@@ -179,7 +179,20 @@ public class CompatBlocks {
             //twilight
             ingotBlock("twilightforest:ironwood_ingot", "twilightforest:ironwood_block"),
             ingotBlock("twilightforest:knightmetal_ingot", "twilightforest:knightmetal_block"),
-            ingotBlock("twilightforest:fiery_ingot", "twilightforest:fiery_block")
+            ingotBlock("twilightforest:fiery_ingot", "twilightforest:fiery_block"),
+
+            //terramity
+            ingotBlock("terramity:dimlite_ingot", "terramity:dimlite_block"),
+            ingotBlock("terramity:conductite", "terramity:hellspec_alloy_block"),
+            ingotBlock("terramity:hellspec_alloy", "terramity:dimlite_block"),
+            ingotBlock("terramity:virentium_alloy_ingot", "terramity:virentium_alloy_block"),
+            ingotBlock("terramity:cosmilite_ingot", "terramity:cosmilite_block"),
+            ingotBlock("terramity:nyxium", "terramity:nyxium_block"),
+            ingotBlock("terramity:exodium_superalloy", "terramity:exodium_block"),
+            ingotBlock("terramity:reverium", "terramity:reverium_block"),
+            ingotBlock("terramity:iridium", "terramity:iridium_block"),
+            ingotBlock("terramity:void_alloy", "terramity:void_alloy_block"),
+            ingotBlock("terramity:profanum")
     );
 
 
