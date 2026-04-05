@@ -262,7 +262,9 @@ public class CompatBlocks {
 
 
     static RegistryObject<Block> ingotBlock(String ingotItem, String ingotBlock) {
-        return HELPER.createPlacedItem(ingotItem.replace(":", "_"), () -> new CompatIngotBlock(modItem(ingotItem), modItem(ingotBlock)));
+        //temp
+        //oh god everything sucks now :(
+        return HELPER.createPlacedItem(ingotItem.replace(":", "_"), () -> new CompatIngotBlock(modItem(ingotItem), modItem(ingotBlock.contains("brick") ? "minecraft:bricks" : "minecraft:iron_block")));
     }
 
     static RegistryObject<Block> ingotBlock(String ingotItem) {
