@@ -9,6 +9,7 @@ import net.minecraft.core.registries.Registries;
 import net.minecraft.world.level.storage.loot.entries.LootPoolEntryType;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
+import net.minecraftforge.fml.ModLoadingContext;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
@@ -30,11 +31,14 @@ public class CCCompat
             () -> new LootPoolEntryType(new OptionalLootItem.Serializer())
     );
 
-    public CCCompat(FMLJavaModLoadingContext context)
+    public CCCompat()
     {
-        IEventBus modEventBus = context.getModEventBus();
+        IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
+        ModLoadingContext context = ModLoadingContext.get();
+        MinecraftForge.EVENT_BUS.register(this);
+
         // Register the commonSetup method for modloading
-        modEventBus.addListener(this::commonSetup);
+        bus.addListener(this::commonSetup);
 
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
@@ -44,8 +48,8 @@ public class CCCompat
         }
 
         // Register the subregistry helper
-        REGISTRY_HELPER.register(modEventBus);
-        POOL_ENTRY_TYPES.register(modEventBus);
+        REGISTRY_HELPER.register(bus);
+        POOL_ENTRY_TYPES.register(bus);
     }
 
     private void commonSetup(final FMLCommonSetupEvent event)

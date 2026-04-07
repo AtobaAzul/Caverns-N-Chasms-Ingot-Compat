@@ -272,6 +272,6 @@ public class CompatBlocks {
     }
 
     static ResourceLocation modItem(String name) {
-        return ResourceLocation.parse(name);
+        return new ResourceLocation(name);
     }
 }

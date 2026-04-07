@@ -4,7 +4,7 @@ buildscript {
         maven { url = "https://repo.spongepowered.org/repository/maven-public/" }
     }
     dependencies {
-        classpath group: "net.minecraftforge.gradle", name: "ForgeGradle", version: "5.1.+", changing: true
+        classpath group: "net.minecraftforge.gradle", name: "ForgeGradle", version: "6.0.46", changing: true
         classpath group: "org.spongepowered", name: "mixingradle", version: "0.7-SNAPSHOT"
     }
 }
@@ -209,7 +209,7 @@ dependencies {
     implementation fg.deobf("curse.maven:playeranimator-658587:4587214")
     implementation fg.deobf("curse.maven:curios-309927:6418456")
     implementation fg.deobf("curse.maven:geckolib-388172:7025129")
-    implementation fg.deobf("curse.maven:irons-spells-n-spellbooks-855414:7402504")
+    compileOnly fg.deobf("curse.maven:irons-spells-n-spellbooks-855414:7402504")
 
     //tconstruct
     implementation fg.deobf("curse.maven:mantle-74924:6819217")
