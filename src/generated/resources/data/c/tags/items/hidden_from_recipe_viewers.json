@@ -337,10 +337,6 @@
       "required": false
     },
     {
-      "id": "cc_compat:extrashiny_vanadium_ingot_placed",
-      "required": false
-    },
-    {
       "id": "cc_compat:alexscaves_scarlet_neodymium_ingot_placed",
       "required": false
     },

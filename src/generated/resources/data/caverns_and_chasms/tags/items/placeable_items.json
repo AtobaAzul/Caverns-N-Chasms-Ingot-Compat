@@ -337,10 +337,6 @@
       "required": false
     },
     {
-      "id": "extrashiny:vanadium_ingot",
-      "required": false
-    },
-    {
       "id": "alexscaves:scarlet_neodymium_ingot",
       "required": false
     },
