@@ -157,8 +157,6 @@ public class CompatBlocks {
             ingotBlock("mekanism:ingot_lead", "mekanism:block_lead"),
             ingotBlock("mekanism:ingot_uranium", "mekanism:block_uranium"),
 
-            //extra shiny
-            ingotBlock("extrashiny:vanadium_ingot", "extrashiny:vanadium_block"),
 
             //alex"s caves
             ingotBlock("alexscaves:scarlet_neodymium_ingot", "alexscaves:block_of_scarlet_neodymium"),
