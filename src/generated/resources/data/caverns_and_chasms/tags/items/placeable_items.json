@@ -619,6 +619,94 @@
     {
       "id": "scguns_oregunized:mauvite_ingot",
       "required": false
+    },
+    {
+      "id": "unify:tin_ingot",
+      "required": false
+    },
+    {
+      "id": "unify:osmium_ingot",
+      "required": false
+    },
+    {
+      "id": "unify:zinc_ingot",
+      "required": false
+    },
+    {
+      "id": "unify:lead_ingot",
+      "required": false
+    },
+    {
+      "id": "unify:nickel_ingot",
+      "required": false
+    },
+    {
+      "id": "unify:silver_ingot",
+      "required": false
+    },
+    {
+      "id": "unify:platinum_ingot",
+      "required": false
+    },
+    {
+      "id": "unify:palladium_ingot",
+      "required": false
+    },
+    {
+      "id": "unify:tungsten_ingot",
+      "required": false
+    },
+    {
+      "id": "unify:titanium_ingot",
+      "required": false
+    },
+    {
+      "id": "unify:uranium_ingot",
+      "required": false
+    },
+    {
+      "id": "unify:thorium_ingot",
+      "required": false
+    },
+    {
+      "id": "unify:wrought_iron_ingot",
+      "required": false
+    },
+    {
+      "id": "unify:tarnished_gold_ingot",
+      "required": false
+    },
+    {
+      "id": "unify:cast_iron_ingot",
+      "required": false
+    },
+    {
+      "id": "unify:rose_gold_ingot",
+      "required": false
+    },
+    {
+      "id": "unify:constantan_ingot",
+      "required": false
+    },
+    {
+      "id": "unify:invar_ingot",
+      "required": false
+    },
+    {
+      "id": "unify:electrum_ingot",
+      "required": false
+    },
+    {
+      "id": "unify:bronze_ingot",
+      "required": false
+    },
+    {
+      "id": "unify:brass_ingot",
+      "required": false
+    },
+    {
+      "id": "unify:steel_ingot",
+      "required": false
     }
   ]
 }

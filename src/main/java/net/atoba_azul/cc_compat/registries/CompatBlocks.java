@@ -275,7 +275,30 @@ public class CompatBlocks {
             ingotBlock("scguns_alexscaves:baric_alloy", "scguns_alexscaves:baric_alloy_block"),
 
             //scguns oregunized
-            ingotBlock("scguns_oregunized:mauvite_ingot", "scguns_oregunized:mauvite_block")
+            ingotBlock("scguns_oregunized:mauvite_ingot", "scguns_oregunized:mauvite_block"),
+
+            ingotBlock("unify:tin_ingot", "unify:tin_ingot"),
+            ingotBlock("unify:osmium_ingot", "unify:osmium_ingot"),
+            ingotBlock("unify:zinc_ingot", "unify:zinc_ingot"),
+            ingotBlock("unify:lead_ingot", "unify:lead_ingot"),
+            ingotBlock("unify:nickel_ingot", "unify:nickel_ingot"),
+            ingotBlock("unify:silver_ingot", "unify:silver_ingot"),
+            ingotBlock("unify:platinum_ingot", "unify:platinum_ingot"),
+            ingotBlock("unify:palladium_ingot", "unify:palladium_ingot"),
+            ingotBlock("unify:tungsten_ingot", "unify:tungsten_ingot"),
+            ingotBlock("unify:titanium_ingot", "unify:titanium_ingot"),
+            ingotBlock("unify:uranium_ingot", "unify:uranium_ingot"),
+            ingotBlock("unify:thorium_ingot", "unify:thorium_ingot"),
+            ingotBlock("unify:wrought_iron_ingot", "unify:wrought_iron_ingot"),
+            ingotBlock("unify:tarnished_gold_ingot", "unify:tarnished_gold_ingot"),
+            ingotBlock("unify:cast_iron_ingot", "unify:cast_iron_ingot"),
+            ingotBlock("unify:rose_gold_ingot", "unify:rose_gold_ingot"),
+            ingotBlock("unify:constantan_ingot", "unify:constantan_ingot"),
+            ingotBlock("unify:invar_ingot", "unify:invar_ingot"),
+            ingotBlock("unify:electrum_ingot", "unify:electrum_ingot"),
+            ingotBlock("unify:bronze_ingot", "unify:bronze_ingot"),
+            ingotBlock("unify:brass_ingot", "unify:brass_ingot"),
+            ingotBlock("unify:steel_ingot", "unify:steel_ingot")
         );
 
 

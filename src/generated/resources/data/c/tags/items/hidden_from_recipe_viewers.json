@@ -619,6 +619,94 @@
     {
       "id": "cc_compat:scguns_oregunized_mauvite_ingot_placed",
       "required": false
+    },
+    {
+      "id": "cc_compat:unify_tin_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_osmium_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_zinc_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_lead_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_nickel_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_silver_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_platinum_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_palladium_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_tungsten_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_titanium_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_uranium_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_thorium_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_wrought_iron_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_tarnished_gold_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_cast_iron_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_rose_gold_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_constantan_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_invar_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_electrum_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_bronze_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_brass_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_steel_ingot_placed",
+      "required": false
     }
   ]
 }

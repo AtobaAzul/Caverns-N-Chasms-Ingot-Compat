@@ -619,6 +619,94 @@
     {
       "id": "cc_compat:scguns_oregunized_mauvite_ingot",
       "required": false
+    },
+    {
+      "id": "cc_compat:unify_tin_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_osmium_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_zinc_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_lead_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_nickel_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_silver_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_platinum_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_palladium_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_tungsten_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_titanium_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_uranium_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_thorium_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_wrought_iron_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_tarnished_gold_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_cast_iron_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_rose_gold_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_constantan_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_invar_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_electrum_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_bronze_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_brass_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:unify_steel_ingot",
+      "required": false
     }
   ]
 }
