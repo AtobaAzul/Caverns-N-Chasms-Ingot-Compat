@@ -707,6 +707,10 @@
     {
       "id": "cc_compat:unify_steel_ingot",
       "required": false
+    },
+    {
+      "id": "cc_compat:palegardenbackport_resin_brick",
+      "required": false
     }
   ]
 }

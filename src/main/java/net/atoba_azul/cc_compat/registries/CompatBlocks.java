@@ -298,8 +298,11 @@ public class CompatBlocks {
             ingotBlock("unify:electrum_ingot", "unify:electrum_ingot"),
             ingotBlock("unify:bronze_ingot", "unify:bronze_ingot"),
             ingotBlock("unify:brass_ingot", "unify:brass_ingot"),
-            ingotBlock("unify:steel_ingot", "unify:steel_ingot")
-        );
+            ingotBlock("unify:steel_ingot", "unify:steel_ingot"),
+
+            //palegardenbackport
+            ingotBlock("palegardenbackport:resin_brick", "palegardenbackport:resin_bricks")
+    );
 
 
     static RegistryObject<Block> ingotBlock(String ingotItem, String ingotBlock) {

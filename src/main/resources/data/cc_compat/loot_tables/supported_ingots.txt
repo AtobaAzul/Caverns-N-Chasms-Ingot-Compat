@@ -175,3 +175,4 @@ unify:electrum_ingot
 unify:bronze_ingot
 unify:brass_ingot
 unify:steel_ingot
+palegardenbackport:resin_brick
