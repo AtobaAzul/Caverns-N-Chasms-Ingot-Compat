@@ -525,6 +525,14 @@
       "required": false
     },
     {
+      "id": "cc_compat:tfmg_cinderblock_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:tfmg_cinderflourblock_placed",
+      "required": false
+    },
+    {
       "id": "cc_compat:aquaculture_neptunium_ingot_placed",
       "required": false
     },

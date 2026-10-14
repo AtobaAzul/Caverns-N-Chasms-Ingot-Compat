@@ -234,6 +234,8 @@ public class CompatBlocks {
             ingotBlock("tfmg:silicon_ingot"),
             ingotBlock("tfmg:magnetic_alloy_ingot"),
             ingotBlock("tfmg:fireproof_brick", "tfmg:fireproof_bricks"),
+            ingotBlock("tfmg:cinderblock", "tfmg:cinder_block"),
+            ingotBlock("tfmg:cinderflourblock", "tfmg:cinderflour_block"),
 
             //aquaculture
             ingotBlock("aquaculture:neptunium_ingot", "aquaculture:neptunium_block"),
