@@ -181,3 +181,9 @@ goety:dark_ingot
 goety:cursed_ingot
 goety:terminum_ingot
 goety:pale_steel_ingot
+scbrass:brass_ingot
+scbrass:zinc_ingot
+architects_palette:nether_brass_ingot
+architects_palette:algal_brick
+architects_palette:sunmetal_brick
+architects_palette:wardstone_brick

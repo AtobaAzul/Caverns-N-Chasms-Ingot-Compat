@@ -731,6 +731,30 @@
     {
       "id": "cc_compat:goety_pale_steel_ingot_placed",
       "required": false
+    },
+    {
+      "id": "cc_compat:scbrass_brass_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:scbrass_zinc_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:architects_palette_nether_brass_ingot_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:architects_palette_algal_brick_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:architects_palette_sunmetal_brick_placed",
+      "required": false
+    },
+    {
+      "id": "cc_compat:architects_palette_wardstone_brick_placed",
+      "required": false
     }
   ]
 }

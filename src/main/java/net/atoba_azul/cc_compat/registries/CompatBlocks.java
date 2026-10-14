@@ -308,8 +308,17 @@ public class CompatBlocks {
             ingotBlock("goety:dark_ingot", "goety:dark_block"),
             ingotBlock("goety:cursed_ingot", "goety:cursed_block"),
             ingotBlock("goety:terminum_ingot", "goety:terminum_block"),
-            ingotBlock("goety:pale_steel_ingot", "goety:pale_steel_block")
+            ingotBlock("goety:pale_steel_ingot", "goety:pale_steel_block"),
 
+            //scbrass
+            ingotBlock("scbrass:brass_ingot"),
+            ingotBlock("scbrass:zinc_ingot"),
+
+            //architect's pallete
+            ingotBlock("architects_palette:nether_brass_ingot", "architects_palette:nether_brass_block"),
+            ingotBlock("architects_palette:algal_brick", "architects_palette:algal_bricks"),
+            ingotBlock("architects_palette:sunmetal_brick", "architects_palette:sunmetal_bricks"),
+            ingotBlock("architects_palette:wardstone_brick", "architects_palette:wardstone_bricks")
     );
 
 

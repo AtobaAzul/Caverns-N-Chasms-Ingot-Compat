@@ -731,6 +731,30 @@
     {
       "id": "goety:pale_steel_ingot",
       "required": false
+    },
+    {
+      "id": "scbrass:brass_ingot",
+      "required": false
+    },
+    {
+      "id": "scbrass:zinc_ingot",
+      "required": false
+    },
+    {
+      "id": "architects_palette:nether_brass_ingot",
+      "required": false
+    },
+    {
+      "id": "architects_palette:algal_brick",
+      "required": false
+    },
+    {
+      "id": "architects_palette:sunmetal_brick",
+      "required": false
+    },
+    {
+      "id": "architects_palette:wardstone_brick",
+      "required": false
     }
   ]
 }
