@@ -1,6 +1,7 @@
 create:brass_ingot
 create:zinc_ingot
 galosphere:silver_ingot
+galosphere:palladium_ingot
 irons_spellbooks:arcane_ingot
 irons_spellbooks:pyrium_ingot
 irons_spellbooks:mithril_ingot
@@ -176,3 +177,7 @@ unify:bronze_ingot
 unify:brass_ingot
 unify:steel_ingot
 palegardenbackport:resin_brick
+goety:dark_ingot
+goety:cursed_ingot
+goety:terminum_ingot
+goety:pale_steel_ingot

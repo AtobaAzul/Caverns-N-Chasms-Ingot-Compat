@@ -13,6 +13,10 @@
       "required": false
     },
     {
+      "id": "cc_compat:galosphere_palladium_ingot",
+      "required": false
+    },
+    {
       "id": "cc_compat:irons_spellbooks_arcane_ingot",
       "required": false
     },
@@ -710,6 +714,22 @@
     },
     {
       "id": "cc_compat:palegardenbackport_resin_brick",
+      "required": false
+    },
+    {
+      "id": "cc_compat:goety_dark_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:goety_cursed_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:goety_terminum_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:goety_pale_steel_ingot",
       "required": false
     }
   ]

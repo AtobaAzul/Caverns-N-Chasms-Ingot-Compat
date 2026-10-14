@@ -39,6 +39,7 @@ public class CompatBlocks {
 
             // galosphere
             ingotBlock("galosphere:silver_ingot", "galosphere:silver_block"),
+            ingotBlock("galosphere:palladium_ingot", "galosphere:palladium_block"),
 
             //irons
             ingotBlock("irons_spellbooks:arcane_ingot"),
@@ -277,31 +278,38 @@ public class CompatBlocks {
             //scguns oregunized
             ingotBlock("scguns_oregunized:mauvite_ingot", "scguns_oregunized:mauvite_block"),
 
-            ingotBlock("unify:tin_ingot", "unify:tin_ingot"),
-            ingotBlock("unify:osmium_ingot", "unify:osmium_ingot"),
-            ingotBlock("unify:zinc_ingot", "unify:zinc_ingot"),
-            ingotBlock("unify:lead_ingot", "unify:lead_ingot"),
-            ingotBlock("unify:nickel_ingot", "unify:nickel_ingot"),
-            ingotBlock("unify:silver_ingot", "unify:silver_ingot"),
-            ingotBlock("unify:platinum_ingot", "unify:platinum_ingot"),
-            ingotBlock("unify:palladium_ingot", "unify:palladium_ingot"),
-            ingotBlock("unify:tungsten_ingot", "unify:tungsten_ingot"),
-            ingotBlock("unify:titanium_ingot", "unify:titanium_ingot"),
-            ingotBlock("unify:uranium_ingot", "unify:uranium_ingot"),
-            ingotBlock("unify:thorium_ingot", "unify:thorium_ingot"),
-            ingotBlock("unify:wrought_iron_ingot", "unify:wrought_iron_ingot"),
-            ingotBlock("unify:tarnished_gold_ingot", "unify:tarnished_gold_ingot"),
-            ingotBlock("unify:cast_iron_ingot", "unify:cast_iron_ingot"),
-            ingotBlock("unify:rose_gold_ingot", "unify:rose_gold_ingot"),
-            ingotBlock("unify:constantan_ingot", "unify:constantan_ingot"),
-            ingotBlock("unify:invar_ingot", "unify:invar_ingot"),
-            ingotBlock("unify:electrum_ingot", "unify:electrum_ingot"),
-            ingotBlock("unify:bronze_ingot", "unify:bronze_ingot"),
-            ingotBlock("unify:brass_ingot", "unify:brass_ingot"),
-            ingotBlock("unify:steel_ingot", "unify:steel_ingot"),
+            ingotBlock("unify:tin_ingot", "unify:tin_block"),
+            ingotBlock("unify:osmium_ingot", "unify:osmium_block"),
+            ingotBlock("unify:zinc_ingot", "unify:zinc_block"),
+            ingotBlock("unify:lead_ingot", "unify:lead_block"),
+            ingotBlock("unify:nickel_ingot", "unify:nickel_block"),
+            ingotBlock("unify:silver_ingot", "unify:silver_block"),
+            ingotBlock("unify:platinum_ingot", "unify:platinum_block"),
+            ingotBlock("unify:palladium_ingot", "unify:palladium_block"),
+            ingotBlock("unify:tungsten_ingot", "unify:tungsten_block"),
+            ingotBlock("unify:titanium_ingot", "unify:titanium_block"),
+            ingotBlock("unify:uranium_ingot", "unify:uranium_block"),
+            ingotBlock("unify:thorium_ingot", "unify:thorium_block"),
+            ingotBlock("unify:wrought_iron_ingot", "unify:wrought_iron_block"),
+            ingotBlock("unify:tarnished_gold_ingot", "unify:tarnished_gold_block"),
+            ingotBlock("unify:cast_iron_ingot", "unify:cast_iron_block"),
+            ingotBlock("unify:rose_gold_ingot", "unify:rose_gold_block"),
+            ingotBlock("unify:constantan_ingot", "unify:constantan_block"),
+            ingotBlock("unify:invar_ingot", "unify:invar_block"),
+            ingotBlock("unify:electrum_ingot", "unify:electrum_block"),
+            ingotBlock("unify:bronze_ingot", "unify:bronze_block"),
+            ingotBlock("unify:brass_ingot", "unify:brass_block"),
+            ingotBlock("unify:steel_ingot", "unify:steel_block"),
 
             //palegardenbackport
-            ingotBlock("palegardenbackport:resin_brick", "palegardenbackport:resin_bricks")
+            ingotBlock("palegardenbackport:resin_brick", "palegardenbackport:resin_bricks"),
+
+            //goety
+            ingotBlock("goety:dark_ingot", "goety:dark_block"),
+            ingotBlock("goety:cursed_ingot", "goety:cursed_block"),
+            ingotBlock("goety:terminum_ingot", "goety:terminum_block"),
+            ingotBlock("goety:pale_steel_ingot", "goety:pale_steel_block")
+
     );
 
 

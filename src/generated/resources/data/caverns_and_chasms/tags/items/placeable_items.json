@@ -13,6 +13,10 @@
       "required": false
     },
     {
+      "id": "galosphere:palladium_ingot",
+      "required": false
+    },
+    {
       "id": "irons_spellbooks:arcane_ingot",
       "required": false
     },
@@ -710,6 +714,22 @@
     },
     {
       "id": "palegardenbackport:resin_brick",
+      "required": false
+    },
+    {
+      "id": "goety:dark_ingot",
+      "required": false
+    },
+    {
+      "id": "goety:cursed_ingot",
+      "required": false
+    },
+    {
+      "id": "goety:terminum_ingot",
+      "required": false
+    },
+    {
+      "id": "goety:pale_steel_ingot",
       "required": false
     }
   ]
