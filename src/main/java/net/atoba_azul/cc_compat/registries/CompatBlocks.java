@@ -320,7 +320,7 @@ public class CompatBlocks {
             ingotBlock("architects_palette:nether_brass_ingot", "architects_palette:nether_brass_block"),
             ingotBlock("architects_palette:algal_brick", "architects_palette:algal_bricks"),
             ingotBlock("architects_palette:sunmetal_brick", "architects_palette:sunmetal_bricks"),
-            ingotBlock("architects_palette:wardstone_brick", "architects_palette:wardstone_bricks")
+            ingotBlock("architects_palette:wardstone_brick", "architects_palette:wardstone_bricks"),
 
             //botania
             ingotBlock("botania:gaia_ingot"),
