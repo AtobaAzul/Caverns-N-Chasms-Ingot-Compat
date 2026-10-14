@@ -575,6 +575,34 @@
     {
       "id": "cc_compat:darkerdepths_forsaken_bronze_ingot",
       "required": false
+    },
+    {
+      "id": "cc_compat:orevolution_tin_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:orevolution_steel_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:orevolution_bronze_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:orevolution_verdite_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:orevolution_platinum_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:orevolution_tungsten_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:orevolution_aethersteel_ingot",
+      "required": false
     }
   ]
 }

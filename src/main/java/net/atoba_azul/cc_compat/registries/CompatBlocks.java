@@ -254,8 +254,17 @@ public class CompatBlocks {
             ingotBlock("create_dd:refined_radiance", "create_dd:refined_radiance_block"),
 
             //darker depths
-            ingotBlock("darkerdepths:forsaken_bronze_ingot", "darkerdepths:forsaken_bronze_block")
-    );
+            ingotBlock("darkerdepths:forsaken_bronze_ingot", "darkerdepths:forsaken_bronze_block"),
+
+            //orevolution
+            ingotBlock("orevolution:tin_ingot", "orevolution:tin_block"),
+            ingotBlock("orevolution:steel_ingot", "orevolution:steel_block"),
+            ingotBlock("orevolution:bronze_ingot", "orevolution:bronze_block"),
+            ingotBlock("orevolution:verdite_ingot", "orevolution:verdite_block"),
+            ingotBlock("orevolution:platinum_ingot", "orevolution:platinum_block"),
+            ingotBlock("orevolution:tungsten_ingot", "orevolution:tungsten_block"),
+            ingotBlock("orevolution:aethersteel_ingot", "orevolution:aethersteel_block")    
+        );
 
 
     static RegistryObject<Block> ingotBlock(String ingotItem, String ingotBlock) {

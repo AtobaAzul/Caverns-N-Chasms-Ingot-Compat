@@ -575,6 +575,34 @@
     {
       "id": "darkerdepths:forsaken_bronze_ingot",
       "required": false
+    },
+    {
+      "id": "orevolution:tin_ingot",
+      "required": false
+    },
+    {
+      "id": "orevolution:steel_ingot",
+      "required": false
+    },
+    {
+      "id": "orevolution:bronze_ingot",
+      "required": false
+    },
+    {
+      "id": "orevolution:verdite_ingot",
+      "required": false
+    },
+    {
+      "id": "orevolution:platinum_ingot",
+      "required": false
+    },
+    {
+      "id": "orevolution:tungsten_ingot",
+      "required": false
+    },
+    {
+      "id": "orevolution:aethersteel_ingot",
+      "required": false
     }
   ]
 }

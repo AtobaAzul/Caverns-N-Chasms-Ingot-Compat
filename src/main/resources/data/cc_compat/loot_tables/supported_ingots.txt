@@ -141,3 +141,10 @@ create_dd:chromatic_compound
 create_dd:shadow_steel
 create_dd:refined_radiance
 darkerdepths:forsaken_bronze_ingot
+orevolution:tin_ingot
+orevolution:steel_ingot
+orevolution:bronze_ingot
+orevolution:verdite_ingot
+orevolution:platinum_ingot
+orevolution:tungsten_ingot
+orevolution:aethersteel_ingot
