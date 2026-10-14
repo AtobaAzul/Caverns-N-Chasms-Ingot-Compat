@@ -263,7 +263,10 @@ public class CompatBlocks {
             ingotBlock("orevolution:verdite_ingot", "orevolution:verdite_block"),
             ingotBlock("orevolution:platinum_ingot", "orevolution:platinum_block"),
             ingotBlock("orevolution:tungsten_ingot", "orevolution:tungsten_block"),
-            ingotBlock("orevolution:aethersteel_ingot", "orevolution:aethersteel_block")    
+            ingotBlock("orevolution:aethersteel_ingot", "orevolution:aethersteel_block"),
+
+            //etcetera
+            ingotBlock("etcetera:bismuth_ingot", "etcetera:bismuth_block")
         );
 
 

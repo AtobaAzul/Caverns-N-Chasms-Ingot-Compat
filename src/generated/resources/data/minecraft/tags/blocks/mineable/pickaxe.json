@@ -603,6 +603,10 @@
     {
       "id": "cc_compat:orevolution_aethersteel_ingot",
       "required": false
+    },
+    {
+      "id": "cc_compat:etcetera_bismuth_ingot",
+      "required": false
     }
   ]
 }

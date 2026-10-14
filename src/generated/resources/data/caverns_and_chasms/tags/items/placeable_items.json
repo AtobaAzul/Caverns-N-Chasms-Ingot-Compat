@@ -603,6 +603,10 @@
     {
       "id": "orevolution:aethersteel_ingot",
       "required": false
+    },
+    {
+      "id": "etcetera:bismuth_ingot",
+      "required": false
     }
   ]
 }

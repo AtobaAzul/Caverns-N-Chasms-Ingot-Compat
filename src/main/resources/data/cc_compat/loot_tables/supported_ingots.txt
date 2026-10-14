@@ -148,3 +148,4 @@ orevolution:verdite_ingot
 orevolution:platinum_ingot
 orevolution:tungsten_ingot
 orevolution:aethersteel_ingot
+etcetera:bismuth_ingot
