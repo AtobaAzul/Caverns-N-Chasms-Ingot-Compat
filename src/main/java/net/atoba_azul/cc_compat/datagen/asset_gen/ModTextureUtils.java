@@ -1,5 +1,6 @@
 package net.atoba_azul.cc_compat.datagen.asset_gen;
 
+import net.atoba_azul.cc_compat.CCCompat;
 import net.mehvahdjukaar.moonlight.api.resources.RPUtils;
 import net.mehvahdjukaar.moonlight.api.resources.textures.Palette;
 import net.mehvahdjukaar.moonlight.api.resources.textures.Respriter;
@@ -12,12 +13,18 @@ import net.minecraftforge.registries.RegistryObject;
 
 import java.io.IOException;
 
-import static net.atoba_azul.cc_compat.CCCompat.MOD_ID;
-
 public class ModTextureUtils {
     public static TextureImage generateIngotTextures(ResourceManager manager, RegistryObject<Block> item) throws IOException {
 
         TextureImage ingotBase = TextureImage.open(manager, new ResourceLocation("caverns_and_chasms", "block/gold_ingot"));
+
+        try {
+
+            return TextureImage.open(manager, new ResourceLocation("cc_compat", "block/" + item.getId().getPath()));
+        } catch (Exception e) {
+            CCCompat.LOGGER.debug("Could not find pre-packaged texture for {}", item.getId().toString());
+            //nothing :)
+        }
 
         if (item.get().asItem() != Items.AIR) {
             if (item.getId().getPath().contains("brick")) {
@@ -25,13 +32,12 @@ public class ModTextureUtils {
             } else if (item.getId().getPath().contains("mekanism")) { //mek's textures work better with this.
                 ingotBase = TextureImage.open(manager, new ResourceLocation("caverns_and_chasms", "block/copper_ingot"));
             }
-
             ResourceLocation ingotItemTextureLocation = RPUtils.findFirstItemTextureLocation(manager, item.get().asItem());
 
             TextureImage ingotItemTexture = TextureImage.open(manager, ingotItemTextureLocation);
 
             Respriter respriter = Respriter.of(ingotBase);
-            Palette ingotPallete = ModPallete.modifyPaletteExample(ingotItemTexture);
+            Palette ingotPallete = ModPallete.modifyPallete(ingotItemTexture);
 
             return respriter.recolor(ingotPallete);
         }

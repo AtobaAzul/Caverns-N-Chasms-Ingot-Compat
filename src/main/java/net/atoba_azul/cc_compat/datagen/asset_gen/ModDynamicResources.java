@@ -66,6 +66,7 @@ public class ModDynamicResources {
                 ALL_INGOT_BLOCKS.forEach(ingot -> {
                     ResourceLocation textureName = new ResourceLocation(MOD_ID, "block/" + ingot.getId().getPath());
 
+
                     sink.addTexture(textureName, getIngotTexture(manager, ingot));
 
                     JsonElement blockState = RPUtils.deserializeJson(new ByteArrayInputStream(StaticResource.getOrLog(manager, ResType.BLOCKSTATES.getPath("caverns_and_chasms:silver_ingot")).data));

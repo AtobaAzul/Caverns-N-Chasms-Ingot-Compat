@@ -266,7 +266,16 @@ public class CompatBlocks {
             ingotBlock("orevolution:aethersteel_ingot", "orevolution:aethersteel_block"),
 
             //etcetera
-            ingotBlock("etcetera:bismuth_ingot", "etcetera:bismuth_block")
+            ingotBlock("etcetera:bismuth_ingot", "etcetera:bismuth_block"),
+
+            //netherdescent
+            ingotBlock("netherdescent:pendorite_ingot"),
+
+            //scguns alexs caves
+            ingotBlock("scguns_alexscaves:baric_alloy", "scguns_alexscaves:baric_alloy_block"),
+
+            //scguns oregunized
+            ingotBlock("scguns_oregunized:mauvite_ingot", "scguns_oregunized:mauvite_block")
         );
 
 

@@ -607,6 +607,18 @@
     {
       "id": "cc_compat:etcetera_bismuth_ingot",
       "required": false
+    },
+    {
+      "id": "cc_compat:netherdescent_pendorite_ingot",
+      "required": false
+    },
+    {
+      "id": "cc_compat:scguns_alexscaves_baric_alloy",
+      "required": false
+    },
+    {
+      "id": "cc_compat:scguns_oregunized_mauvite_ingot",
+      "required": false
     }
   ]
 }

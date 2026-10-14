@@ -149,3 +149,6 @@ orevolution:platinum_ingot
 orevolution:tungsten_ingot
 orevolution:aethersteel_ingot
 etcetera:bismuth_ingot
+netherdescent:pendorite_ingot
+scguns_alexscaves:baric_alloy
+scguns_oregunized:mauvite_ingot
