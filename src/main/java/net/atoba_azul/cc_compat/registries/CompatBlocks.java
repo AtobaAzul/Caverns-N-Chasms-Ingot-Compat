@@ -321,6 +321,12 @@ public class CompatBlocks {
             ingotBlock("architects_palette:algal_brick", "architects_palette:algal_bricks"),
             ingotBlock("architects_palette:sunmetal_brick", "architects_palette:sunmetal_bricks"),
             ingotBlock("architects_palette:wardstone_brick", "architects_palette:wardstone_bricks")
+
+            //botania
+            ingotBlock("botania:gaia_ingot"),
+            ingotBlock("botania:manasteel_ingot", "botania:manasteel_block"),
+            ingotBlock("botania:elementium_ingot", "botania:elementium_block"),
+            ingotBlock("botania:terrasteel_ingot" , "botania:terrasteel_block")
     );
 
 

@@ -189,3 +189,7 @@ architects_palette:nether_brass_ingot
 architects_palette:algal_brick
 architects_palette:sunmetal_brick
 architects_palette:wardstone_brick
+botania:gaia_ingot
+botania:manasteel_ingot
+botania:elementium_ingot
+botania:terrasteel_ingot
