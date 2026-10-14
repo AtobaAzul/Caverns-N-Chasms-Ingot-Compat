@@ -141,11 +141,11 @@ public class CompatBlocks {
             ingotBlock("metal_works:rose_gold_ingot", "thermal:rose_gold_block"),
 
             //ad astra
-            ingotBlock("ad_astra:steel_ingot"),
-            ingotBlock("ad_astra:etrium_ingot"),
-            ingotBlock("ad_astra:desh_ingot"),
-            ingotBlock("ad_astra:ostrum_ingot"),
-            ingotBlock("ad_astra:calorite_ingot"),
+            ingotBlock("ad_astra:steel_ingot", "ad_astra:steel_block"),
+            ingotBlock("ad_astra:etrium_ingot", "ad_astra:etrium_block"),
+            ingotBlock("ad_astra:desh_ingot", "ad_astra:desh_block"),
+            ingotBlock("ad_astra:ostrum_ingot", "ad_astra:ostrum_block"),
+            ingotBlock("ad_astra:calorite_ingot", "ad_astra:calorite_block"),
 
             //mekanism
             ingotBlock("mekanism:ingot_bronze", "mekanism:block_bronze"),
@@ -243,7 +243,6 @@ public class CompatBlocks {
             ingotBlock("undergarden:forgotten_ingot", "undergarden:forgotten_block"),
 
             //dreams and desires
-            //it tags andesite alloy as a ingot so, uh, it also gets added ig.
             ingotBlock("create_dd:mithril_ingot","create_dd:mithril_block"),
             ingotBlock("create_dd:bronze_ingot", "create_dd:bronze_block"),
             ingotBlock("create_dd:steel_ingot",  "create_dd:steel_block"),
@@ -260,9 +259,8 @@ public class CompatBlocks {
 
 
     static RegistryObject<Block> ingotBlock(String ingotItem, String ingotBlock) {
-        //temp
-        //oh god everything sucks now :(
-        return HELPER.createPlacedItem(ingotItem.replace(":", "_"), () -> new CompatIngotBlock(modItem(ingotItem), modItem(ingotBlock.contains("brick") ? "minecraft:bricks" : "minecraft:iron_block")));
+        //everything is awesome again
+        return HELPER.createPlacedItem(ingotItem.replace(":", "_"), () -> new CompatIngotBlock(modItem(ingotItem), modItem(ingotBlock)));
     }
 
     static RegistryObject<Block> ingotBlock(String ingotItem) {
